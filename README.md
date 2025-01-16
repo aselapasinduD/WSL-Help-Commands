@@ -6,14 +6,14 @@ Use this command to see the current instants.
 ```bash
 wsl -l -v
 ```
-Use this command to see the available distro that you can install
+Use this command to see the available distro that you can install.
 ```bash
 wsl -l -o
 ```
 
 ## Install WSL
 
-Install common WSL distribution
+Install common WSL distribution.
 ```bash
 wsl --install
 ```
